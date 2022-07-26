@@ -1,0 +1,8 @@
+easydict
+pyyaml==5.4.1
+torch
+numpy
+tensorboardX
+tensorboard
+opencv-python
+captcha
